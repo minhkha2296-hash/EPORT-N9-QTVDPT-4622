@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+streamlit
+requests
+qrcode
+pillow
+fpdf2
